@@ -1,3 +1,5 @@
+![image](https://github.com/NidhiTornekar/Multi-Trait-Prediction-for-Wheat/assets/121748841/450a6e2d-5e98-43ae-bed0-3a88f3ce4f6e)
+
 This project aims to predict the breeding values of various phenotypic traits such as the Grain Filling Duration(GFD), Days to Heading(DH), Plant Height(PH) and Grain Weight per Spike(GWPS) for Indian Wheat(Triticum aestivum L.); given as input the allele sequence of the plant. 
 
 The input dataset consisted of two csv files:
